@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1
 2-master
+=======
+1-branch1
+>>>>>>> branch1
